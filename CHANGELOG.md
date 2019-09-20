@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/LonnyGomes/conventional-commits-lerna-poc/compare/v0.3.0...v0.3.1) (2019-09-20)
+
+
+### Bug Fixes
+
+* **mod1:** add comments ([99d5a6b](https://github.com/LonnyGomes/conventional-commits-lerna-poc/commit/99d5a6b)), closes [#6](https://github.com/LonnyGomes/conventional-commits-lerna-poc/issues/6)
+* **mod2:** add comments for spanish ([774e31f](https://github.com/LonnyGomes/conventional-commits-lerna-poc/commit/774e31f)), closes [#6](https://github.com/LonnyGomes/conventional-commits-lerna-poc/issues/6)
+
+
+
+
+
 # [0.3.0](https://github.com/LonnyGomes/conventional-commits-lerna-poc/compare/v0.2.1...v0.3.0) (2019-09-20)
 
 
