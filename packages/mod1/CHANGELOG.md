@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.1](https://github.com/LonnyGomes/conventional-commits-lerna-poc/compare/v0.4.0...v0.4.1) (2019-09-20)
+
+
+### Bug Fixes
+
+* **mod1:** add another entry ([fb7b746](https://github.com/LonnyGomes/conventional-commits-lerna-poc/commit/fb7b746))
+
+
+
+
+
 # [0.4.0](https://github.com/LonnyGomes/conventional-commits-lerna-poc/compare/v0.3.2...v0.4.0) (2019-09-20)
 
 
