@@ -5,15 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.2.0](https://github.com/LonnyGomes/conventional-commits-lerna-poc/compare/v0.1.0...v0.2.0) (2019-09-20)
 
-**Note:** Version bump only for package mod1
-
-
-
-
-
-# 0.1.0 (2019-09-20)
-
 
 ### Features
 
-* add new package ([5aa7234](https://github.com/LonnyGomes/conventional-commits-lerna-poc/commit/5aa7234))
+* add mod2 ([e018454](https://github.com/LonnyGomes/conventional-commits-lerna-poc/commit/e018454)), closes [#2](https://github.com/LonnyGomes/conventional-commits-lerna-poc/issues/2)
