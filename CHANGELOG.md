@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/LonnyGomes/conventional-commits-lerna-poc/compare/v0.3.2...v0.4.0) (2019-09-20)
+
+
+### Features
+
+* test squash ([#10](https://github.com/LonnyGomes/conventional-commits-lerna-poc/issues/10)) ([040a87f](https://github.com/LonnyGomes/conventional-commits-lerna-poc/commit/040a87f)), closes [#9](https://github.com/LonnyGomes/conventional-commits-lerna-poc/issues/9) [#6](https://github.com/LonnyGomes/conventional-commits-lerna-poc/issues/6)
+
+
+
+
+
 ## [0.3.2](https://github.com/LonnyGomes/conventional-commits-lerna-poc/compare/v0.3.1...v0.3.2) (2019-09-20)
 
 
